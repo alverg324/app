@@ -1,7 +1,7 @@
 {
     "site_url": "https://tvwiki5.net",
     "api_url": "https://tvwiki5.net/api",
-    "min_version": "1.2.0",
-    "latest_version": "1.2.7",
-    "update_url": "https://tvwiki5.net/data/app/tvwiki-v1.2.7.apk"
+    "min_version": "1.0.0",
+    "latest_version": "1.2.8",
+    "update_url": "https://tvwiki5.net/data/app/tvwiki-v1.2.8.apk"
 }
